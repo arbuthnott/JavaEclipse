@@ -1,0 +1,9 @@
+SPECIES: Penguin
+NAME: kristina
+GENDER: Female
+WEIGHT (kg): 11.0
+BLOOD PRESSURE: 110/60
+KNOWN GPS COORDINATES (latitude, longitude):
+-85, 100
+no data
+no data

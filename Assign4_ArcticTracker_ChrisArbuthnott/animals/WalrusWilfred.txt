@@ -1,0 +1,9 @@
+SPECIES: Walrus
+NAME: Wilfred
+GENDER: Male
+WEIGHT: 258.75
+DENTAL HEALTH: Good
+KNOWN GPS COORDINATES (latitude, longitude):
+73, -50.8
+73, -48.2
+72, -48.4

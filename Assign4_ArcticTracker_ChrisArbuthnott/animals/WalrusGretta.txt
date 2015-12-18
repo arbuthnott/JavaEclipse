@@ -1,0 +1,9 @@
+SPECIES: Walrus
+NAME: Gretta
+GENDER: Female
+WEIGHT: 272.0
+DENTAL HEALTH: Average
+KNOWN GPS COORDINATES (latitude, longitude):
+77.3, 129
+no data
+no data

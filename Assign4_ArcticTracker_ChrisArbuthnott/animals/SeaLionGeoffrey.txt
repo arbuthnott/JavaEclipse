@@ -1,0 +1,9 @@
+SPECIES: Sea Lion
+NAME: Geoffrey
+GENDER: Male
+WEIGHT (kg): 140.0
+NUMBER OF SPOTS: 7
+KNOWN GPS COORDINATES (latitude, longitude):
+80, 22.2
+80.1, 22.1
+80.1, 22.2

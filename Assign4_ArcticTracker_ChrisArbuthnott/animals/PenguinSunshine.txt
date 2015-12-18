@@ -1,0 +1,9 @@
+SPECIES: Penguin
+NAME: Sunshine
+GENDER: Female
+WEIGHT: 12.5
+BLOOD PRESSURE: 45/15
+KNOWN GPS COORDINATES (latitude, longitude):
+no data
+no data
+no data

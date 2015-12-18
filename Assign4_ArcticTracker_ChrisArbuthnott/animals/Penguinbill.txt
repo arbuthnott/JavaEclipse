@@ -1,0 +1,9 @@
+SPECIES: Penguin
+NAME: bill
+GENDER: Male
+WEIGHT (kg): 4.1
+BLOOD PRESSURE: 100/80
+KNOWN GPS COORDINATES (latitude, longitude):
+-85, -21.4
+no data
+no data

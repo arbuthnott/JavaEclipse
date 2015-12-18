@@ -1,0 +1,9 @@
+SPECIES: Walrus
+NAME: Ben
+GENDER: Male
+WEIGHT (kg): 211.0
+DENTAL HEALTH: Poor
+KNOWN GPS COORDINATES (latitude, longitude):
+80, 70
+no data
+no data

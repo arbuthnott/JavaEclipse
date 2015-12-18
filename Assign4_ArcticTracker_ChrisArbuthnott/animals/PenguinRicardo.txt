@@ -1,0 +1,9 @@
+SPECIES: Penguin
+NAME: Ricardo
+GENDER: Male
+WEIGHT: 8.2
+BLOOD PRESSURE: 50/22
+KNOWN GPS COORDINATES (latitude, longitude):
+-88, 5.6
+no data
+no data

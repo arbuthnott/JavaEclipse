@@ -1,0 +1,9 @@
+SPECIES: Walrus
+NAME: beth
+GENDER: Female
+WEIGHT (kg): 232.0
+DENTAL HEALTH: Average
+KNOWN GPS COORDINATES (latitude, longitude):
+77, 0.3
+no data
+no data

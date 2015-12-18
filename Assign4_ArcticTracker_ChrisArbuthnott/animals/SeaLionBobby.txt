@@ -1,0 +1,9 @@
+SPECIES: Sea Lion
+NAME: bobby
+GENDER: Female
+WEIGHT (kg): 38.1
+NUMBER OF SPOTS: 22
+KNOWN GPS COORDINATES (latitude, longitude):
+70, 100
+71, 100
+72, 100

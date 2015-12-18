@@ -1,0 +1,9 @@
+SPECIES: Penguin
+NAME: Alice
+GENDER: Female
+WEIGHT: 11.0
+BLOOD PRESSURE: 5/3
+KNOWN GPS COORDINATES (latitude, longitude):
+no data
+no data
+no data
